@@ -1,0 +1,10 @@
+const appBarTitle = 'Transferência';
+const confirm = 'Confirmar';
+const createATransfer = 'Criar uma transferência';
+const hintAccountNumber = '0000';
+const hintAccountValue = '0.00';
+const labelValue = 'Valor: R\$';
+const labelAccount = 'Conta: ';
+const labelAccountNumber = 'Número da conta:';
+const labelAccountValue = 'Valor: ';
+const transferCreatedSuccess = 'Transferência criada com sucesso!';
